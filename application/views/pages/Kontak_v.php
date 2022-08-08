@@ -54,7 +54,7 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2><?php echo get_phrase('Hubungi Kamii') ?></h2>
+          <h2><?php echo get_phrase('Hubungi Kami') ?></h2>
           <ol>
             <li><a href="<?php echo site_url('Contacts') ?>"><?php echo get_phrase('Hubungi Kami') ?></a></li>
             <li><?php echo get_phrase('Hubungi Kami') ?></li>
